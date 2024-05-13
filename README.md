@@ -1,8 +1,8 @@
-# # InitJava
+# # InitJava   
 Init Java
 ## Overview
 
-This is a first introduce to Java
+This is a first introduction to Java
 
 ## What is done
 
