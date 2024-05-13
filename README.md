@@ -1,4 +1,4 @@
-# # InitJava   
+## InitJava   
 Init Java
 ## Overview
 
