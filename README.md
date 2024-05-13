@@ -10,7 +10,10 @@ This is a first introduction to Java
     Script that let you create a point A & B and translate the Point A to new coordinate and show us the distance between A & B
 - Figures : 
     Script that create 3 Figures: A Triangle, A circle and a Polygone. the perimeter and their surface are also calculated and displayed
-
+- TP1 :
+    Many little exercice that helps using the syntax
+- Scanneur: 
+    Script that open an interface with the user to collect the user's name and age
 
 ## function and fixes coming
 
